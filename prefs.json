@@ -1,0 +1,13 @@
+{
+    "brightness":0.05,
+    "off":{
+        "blue":0,
+        "green":140,
+        "red":140
+    },
+    "on":{
+        "blue":120,
+        "green":0,
+        "red":0
+    }
+}
