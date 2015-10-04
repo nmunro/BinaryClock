@@ -1,0 +1,9 @@
+[Unit]
+Description=Binary clock using UnicornHat.
+
+[Service]
+Type=simple
+ExecStart=/opt/BinaryClock/startup.sh &
+
+[Install]
+WantedBy=multi-user.target
